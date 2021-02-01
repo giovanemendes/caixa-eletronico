@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaixaEletronico.Dominio", "CaixaEletronico.Dominio\CaixaEletronico.Dominio.csproj", "{A4E27DE4-E655-4452-A609-5D952BAB6D0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaixaEletronico.ConsoleApp", "CaixaEletronico.Console\CaixaEletronico.ConsoleApp.csproj", "{10D450C1-EF2C-4E0A-BAD4-7FE7A7322830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4E27DE4-E655-4452-A609-5D952BAB6D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E27DE4-E655-4452-A609-5D952BAB6D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E27DE4-E655-4452-A609-5D952BAB6D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E27DE4-E655-4452-A609-5D952BAB6D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10D450C1-EF2C-4E0A-BAD4-7FE7A7322830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D450C1-EF2C-4E0A-BAD4-7FE7A7322830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D450C1-EF2C-4E0A-BAD4-7FE7A7322830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D450C1-EF2C-4E0A-BAD4-7FE7A7322830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35F27FB3-51C2-4345-8008-DF8FE4EE1FCC}
+	EndGlobalSection
+EndGlobal
